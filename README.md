@@ -1,9 +1,4 @@
-# thenate
-
-https://leokritajessica.github.io/thenate/
-
-This is the project about darkmode website 
-and try to create own pinterest
-
-My linked in 
-https://www.linkedin.com/in/leokrita-cornelia-jessica/
+![](image/Screenshot%20from%202021-03-29%2012-45-09.png)
+# TheNate
+This is project create with Pure css and javascript \
+Thenate can change background to darkmode and responsive
